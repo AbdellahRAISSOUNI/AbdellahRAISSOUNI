@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Php, Machine learnin and networks**
 
-- 👨‍💻 Portfolio: [https://abdellah-raissouni-nextjs-portfolio1.netlify.app/](https://abdellah-raissouni-nextjs-portfolio1.netlify.app//)
+- 👨‍💻 Portfolio: [https://abdellah-raissouni-nextjs-portfolio1.netlify.app/](https://abdellah-raissouni-nextjs-portfolio1.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
