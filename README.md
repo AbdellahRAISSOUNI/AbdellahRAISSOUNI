@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Php, Machine learnin and networks**
+- 🌱 I’m currently a **4th year Engineering Student at Ensaté**
 
 - 👨‍💻 Portfolio: [https://abdellah-raissouni-nextjs-portfolio1.netlify.app/](https://abdellah-raissouni-nextjs-portfolio1.netlify.app/)
 
