@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/abdellah-raissouni" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://abdellah-raissouni-nextjs-portfolio1.netlify.app/" target="_blank">
+  <a href="https://abdellah-raissouni-2025.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=abdellahraissouni&style=for-the-badge&color=4F94EF" alt="Profile Views" />
