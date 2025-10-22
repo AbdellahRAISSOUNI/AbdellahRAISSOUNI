@@ -27,7 +27,7 @@
   </h2>
 </div>
 
-I'm a 4th year Engineering Student at Ensaté with a passion for building innovative software solutions.
+I'm a 5th year Engineering Student at Ensaté with a passion for building innovative software solutions.
 Currently focused on full-stack development, exploring new technologies, and solving complex problems.
 
 <!-- ANIMATED STATS CARDS -->
