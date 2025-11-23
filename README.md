@@ -9,7 +9,7 @@
     </a>
     &nbsp;
     <a href="https://abdellah-raissouni-2025.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 </div>
