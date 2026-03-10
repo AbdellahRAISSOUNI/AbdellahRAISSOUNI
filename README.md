@@ -1,63 +1,49 @@
+<!-- Header -->
 <div align="center">
-  <!-- Header Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Abdellah%20Raissouni&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect&descAlignY=60&descAlign=50&descSize=25" alt="Abdellah Raissouni" width="100%" />
+  <h1>Abdellah Raissouni</h1>
+  <p><em>Software Engineer &nbsp;·&nbsp; Full-Stack Architect &nbsp;·&nbsp; ENSAT '25</em></p>
 
-  <!-- Social Links -->
-  <p align="center">
-    <a href="https://linkedin.com/in/abdellah-raissouni" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://abdellah-raissouni-2025.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
+  <p>
+    <a href="https://abdellah-raissouni-2025.vercel.app/">Portfolio</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/abdellah-raissouni">LinkedIn</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="mailto:abdellah.raissouni@email.com">Email</a>
   </p>
 </div>
 
-<br />
-
-### 👨‍💻 About Me
-
-I am a **Software Engineer & 5th-year Student at Ensaté**, dedicated to crafting high-performance digital experiences. With a strong foundation in **Full-Stack Development**, I specialize in architecting scalable solutions that solve real-world problems. My approach combines technical precision with creative design thinking.
-
-- 🔭 **Currently building:** High-performance SaaS applications using **Next.js & Django**.
-- 🌱 **Exploring:** Advanced **Cloud Patterns (AWS/Kubernetes)** & Microservices Architecture.
-- ⚡ **Core Philosophy:** "Simplicity is the soul of efficiency."
-- 💬 **Ask me about:** React, System Design, and Cloud Native Technologies.
+---
 
 <br />
 
-### 🛠️ Technical Arsenal
+I'm a software engineer who cares about the craft — clean architecture, thoughtful interfaces, and systems that scale. I work across the full stack, from designing APIs to shipping polished user experiences.
 
-<div align="center">
-
-| **Frontend** | **Backend** | **DevOps & Tools** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" /> | <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,spring" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,figma" /> |
-| <img src="https://skillicons.dev/icons?i=vue,angular,html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,mysql,postgres,mongodb" /> | <img src="https://skillicons.dev/icons?i=azure,gcp,vercel,netlify,postman" /> |
-
-</div>
+Right now I'm deep into **SaaS architecture** and **cloud-native patterns**, constantly looking for the intersection between engineering rigor and elegant design.
 
 <br />
 
-### 🧩 Contribution Graph
+---
 
-<div align="center">
-  
-  <!-- Snake Game: Clean, dark-themed, and centered properly -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+```
+  currently building  →  high-performance SaaS platforms
+  currently learning  →  cloud architecture & microservices
+  open to             →  interesting problems & collaborations
+```
 
-</div>
+---
 
 <br />
 
 <div align="center">
-  <a href="https://abdellah-raissouni-2025.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=009688&height=100&section=footer" width="100%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdellahRAISSOUNI&show_icons=true&theme=default&hide_border=true&hide_title=true&rank_icon=github&hide=issues&include_all_commits=true" height="130" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdellahRAISSOUNI&layout=compact&theme=default&hide_border=true&hide_title=true&langs_count=6" height="130" />
 </div>
 
+<br />
+
+---
+
+<div align="center">
+  <sub><em>"Simplicity is the soul of efficiency."</em></sub>
+</div>
