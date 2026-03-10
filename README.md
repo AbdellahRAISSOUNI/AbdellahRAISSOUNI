@@ -34,13 +34,6 @@ Right now I'm deep into **SaaS architecture** and **cloud-native patterns**, con
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdellahRAISSOUNI&show_icons=true&theme=default&hide_border=true&hide_title=true&rank_icon=github&hide=issues&include_all_commits=true" height="130" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdellahRAISSOUNI&layout=compact&theme=default&hide_border=true&hide_title=true&langs_count=6" height="130" />
-</div>
-
-<br />
 
 ---
 
