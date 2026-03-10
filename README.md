@@ -16,7 +16,7 @@
 
 <br />
 
-I'm a software engineer who cares about the craft — clean architecture, thoughtful interfaces, and systems that scale. I work across the full stack, from designing APIs to shipping polished user experiences.
+I'm a software engineer who cares about the craft, clean architecture, thoughtful interfaces, and systems that scale. I work across the full stack, from designing APIs to shipping polished user experiences.
 
 Right now I'm deep into **SaaS architecture** and **cloud-native patterns**, constantly looking for the intersection between engineering rigor and elegant design.
 
