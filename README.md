@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <h1>Abdellah Raissouni</h1>
-  <p><em>Software Engineer &nbsp;·&nbsp; Full-Stack Architect &nbsp;·&nbsp; ENSAT '25</em></p>
+  <p><em>Software Engineer &nbsp;·&nbsp; Full-Stack Architect &nbsp;·&nbsp; ENSATE '26</em></p>
 
   <p>
     <a href="https://abdellah-raissouni-2025.vercel.app/">Portfolio</a>
