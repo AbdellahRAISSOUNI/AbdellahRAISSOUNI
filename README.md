@@ -8,7 +8,7 @@
     &nbsp;&nbsp;·&nbsp;&nbsp;
     <a href="https://linkedin.com/in/abdellah-raissouni">LinkedIn</a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="mailto:abdellah.raissouni@email.com">Email</a>
+    <a href="mailto:abdellahraissouni@gmail.com">Email</a>
   </p>
 </div>
 
